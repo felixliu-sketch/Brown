@@ -23,7 +23,7 @@ Section Owners
 Data Wrangler - Tatsuto Nozaki
 Analyst - Sherry Wang
 Modeler - Prisha
-Evaluator - Tatsuto
+Evaluator - Felix
 PM/Storyteller = All of us
 
 Contribution log
